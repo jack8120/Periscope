@@ -1,0 +1,41 @@
+.header {
+    height: 65px;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to right,white,#B7E9F7);
+    color: white;
+    padding: 20px;
+}
+
+.header-logo {
+    width: 200px;
+    height: 100%;
+    margin-right: auto;
+    
+   
+}
+
+.header-text {
+    width: 400px;
+    color: #5ABED3
+   
+}
+
+
+
+.logo {
+height: 50%;
+margin-right: 10px;
+}
+
+.header-title {
+font-size: 1.25rem;
+margin-right: auto;
+}
+
+.header-info {
+/* color: white;
+padding-right: 30px; */
+font-size: 0.75rem;
+font-weight: 500;
+}
